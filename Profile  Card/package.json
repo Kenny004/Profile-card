@@ -1,0 +1,11 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "this is the use of tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kenny",
+  "license": "ISC"
+}
